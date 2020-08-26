@@ -31,12 +31,13 @@ Using Bootstrap, develop your portfolio site with the following items:
 <hr>
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<img src="project_screenshoot/index_1024">
+<img src="project_screenshoot/index_786">
+<img src="project_screenshoot/portfolio_1024">
+<img src="project_screenshoot/portfolio_786">
+<img src="project_screenshoot/contact_1024">
+<img src="project_screenshoot/contact_786">
+
 
 ​
 ​
