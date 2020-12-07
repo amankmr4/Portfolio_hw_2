@@ -1,11 +1,11 @@
 # TITLE
 Aman's Responsive Portfolio
 
-This is a web-page made using HTML, CSS and javascript.
+This is a web-page made using HTML, CSS and javascript. This web-page shows my online web development portfolio.
 ​
 ## Contents
 <p>
-The web-site is composed of 4 pages, index.html ,portfolio.html , contact.html and styles.css. It also has images in the img folder
+The web-site is composed of 4 pages, index.html ,portfolio.html , contact.html and styles.css. It also has images in the img folder.
 </p>
 ​
 ## User Story
@@ -19,20 +19,6 @@ SO THAT I can create a strong password that provides greater security
 ​
 * [VScode](https://code.visualstudio.com/) - The editor of choice
 * [Terminal](https://gitforwindows.org/) - Git Bash
-​
-#### Initial interface and #### Final Interface
-<hr>
-
-
-<img src="project_screenshoot/index_1024">
-<img src="project_screenshoot/index_786">
-<img src="project_screenshoot/portfolio_1024">
-<img src="project_screenshoot/portfolio_786">
-<img src="project_screenshoot/contact_1024">
-<img src="project_screenshoot/contact_786">
-
-
-​
 ​
 ### Licence
 ​
