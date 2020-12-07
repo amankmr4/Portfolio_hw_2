@@ -1,7 +1,7 @@
 # TITLE
 Aman's Responsive Portfolio
 
-This is a web-page made using HTML, CSS and Bootstrap.
+This is a web-page made using HTML, CSS and javascript.
 ​
 ## Contents
 <p>
@@ -10,16 +10,9 @@ The web-site is composed of 4 pages, index.html ,portfolio.html , contact.html a
 ​
 ## User Story
 <p>
-This is a projected assigned to student to create a responsive website using HTML,CSS and Bootstrap. 
-Using Bootstrap, develop your portfolio site with the following items:
-
-   * A responsive navbar
-
-   * A responsive layout
-
-   * Responsive images
-
-   * A fixed footer
+AS AN employee with access to sensitive data
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides greater security
 </p>
 ​
 ## Built With
@@ -50,7 +43,6 @@ Licence is attached with the Portfolio_hw_2 folder
 https://amankmr4.github.io/Portfolio_hw_2/
 
 <hr>
-Link to Repository
 <a href="https://github.com/amankmr4/Portfolio_hw_2.git">Link to the GitRepository</a>
 https://github.com/amankmr4/Portfolio_hw_2.git
 

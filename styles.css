@@ -34,7 +34,7 @@ hr {
     margin-top: 50px;
     margin-left: 10px;
     margin-bottom: 50px;
-     background-color: white;
+     background-color: transparent;
  }
 
 
@@ -44,16 +44,60 @@ hr {
      text-align: center;
  }
 
-  
+
+ .card-container {
+    display: grid;
+    perspective: 700px;
+    
+}
+
+.card-flip, .card-container {
+    transform-style: preserve-3d;
+    transition: all 0.7s ease;
+    margin-bottom: 2%;
+}
+
+.card-flip {
+    width: 75%;
+}
+
+.card-flip div {
+    backface-visibility: hidden;
+    transform-style: preserve-3d;
+}
+
+.back {
+    transform: rotateY(-180deg);
+}
+
+.card-flip:hover, .card-flip:active {
+    transform: rotateY(180deg);
+}
+.card-flip {
+    display: grid;
+    grid-template-areas: "frontAndBack";
+    transform-style: preserve-3d;
+    transition: all 0.7s ease;
+}
+
+.front {
+    grid-area: frontAndBack;
+}
+
+.back {
+    grid-area: frontAndBack;
+    transform: rotateY(-180deg);
+}
 
 
+.cardarea:hover {
+    position: relative;
+    margin-left: 20%;
+    -webkit-box-shadow: -6px 6px 15px 5px #000000; 
+box-shadow: -6px 6px 15px 5px #000000;
 
+}
 
-
- @media (min-width: 576px) { 
-.poonu {
-
- }
 
 
 
