@@ -1,6 +1,4 @@
-# TITLE
-Aman's Responsive Portfolio
-
+# Aman's Responsive Portfolio
 This is a web-page made using HTML, CSS and javascript. This web-page shows my online web development portfolio.
 ​
 ## Contents
