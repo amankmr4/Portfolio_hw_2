@@ -29,8 +29,6 @@ https://amankmr4.github.io/Portfolio_hw_2/
 <hr>
 <a href="https://github.com/amankmr4/Portfolio_hw_2.git">Link to the GitRepository</a>
 https://github.com/amankmr4/Portfolio_hw_2.git
-
-<hr>
 ​
 ## Authors
 ​
